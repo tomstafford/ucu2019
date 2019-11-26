@@ -17,5 +17,6 @@ University staff have acted as shock absorbers for the disruption of the higher 
 
 The current strikes were a long time coming. We are in a completely foreseeable situation which Universities could have worked much harder to avoid. Why didn't they?
 
+#### Further reading:
 
-
+* [the largest, quietest privatisation in UK history](https://theconversation.com/capitalist-creep-on-campus-the-largest-quietest-privatisation-in-uk-history-its-why-were-striking-126554)
