@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "November 2019"
+title: "Why We Are Striking"
 comments: false
 ---
 
