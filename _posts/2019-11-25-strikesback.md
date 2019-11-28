@@ -4,9 +4,6 @@ title: "Why We Are Striking"
 comments: false
 ---
 
-
-## Why We Are Striking
-
 There are two disputes in the current strikes. Some universities are striking over both, some over just one.
 
 
