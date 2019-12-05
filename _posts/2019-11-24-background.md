@@ -20,3 +20,5 @@ The current strikes were a long time coming. We are in a completely foreseeable 
 #### Further reading:
 
 * [the largest, quietest privatisation in UK history](https://theconversation.com/capitalist-creep-on-campus-the-largest-quietest-privatisation-in-uk-history-its-why-were-striking-126554)
+
+* [UK spends less than international competitors on university staff despite highest tuition fees, report finds](https://www.ucu.org.uk/article/9626/UK-spends-less-than-international-competitors-on-university-staff-despite-highest-tuition-fees-report-finds)
